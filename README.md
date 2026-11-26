@@ -1,6 +1,6 @@
 **Retail Sales Performance & Business Intelligence Analysis**
 
-**Project Overview**
+**MiniProject Overview**
 
 This project prepares retail sales data in Microsoft Excel and PowerQuery, then analyses it in Microsoft Power BI through a three-page interactive dashboard.
 
